@@ -209,4 +209,4 @@ El objetivo de este portafolio es presentar de manera ordenada mi experiencia pr
 **Especialidad:** Ingeniería Estructural
 **Ubicación:** Perú
 **GitHub:** [github.com/juanlopi](https://github.com/juanlopi)
-**Correo:** [lopez23set@gmail.com](mailto:lopez23set@gmail.com)
+**Correo:** [jlopezp1@estudiante.uc.cl](mailto:jlopezp1@estudiante.uc.cl)
