@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Archivo visual de la tesis de ingeniería estructural organizado por modelación, análisis, diseño y validación.">
+  <meta name="theme-color" content="#0f1c23">
+  <title>Archivo técnico | Juan López</title>
+  <link rel="stylesheet" href="assets/css/styles.css">
+  <script defer src="assets/js/main.js"></script>
+  <script defer src="assets/js/gallery.js"></script>
+</head>
+<body class="gallery-page">
+  <header class="site-header site-header-solid">
+    <a class="brand" href="index.html" aria-label="Volver al portafolio">
+      <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span>
+      <span><strong>JUAN LÓPEZ</strong><small>ARCHIVO TÉCNICO</small></span>
+    </a>
+    <a class="back-link" href="index.html">← Volver al portafolio</a>
+  </header>
+
+  <main>
+    <section class="gallery-hero">
+      <div>
+        <p class="eyebrow">170 RECURSOS RECUPERADOS DE LA TESIS</p>
+        <h1>Archivo visual por capítulos.</h1>
+        <p>
+          Modelos, espectros, curvas, resultados de elementos finitos,
+          verificaciones, ensayos y planos de fabricación.
+        </p>
+      </div>
+      <div class="gallery-counter">
+        <strong id="visible-count">170</strong>
+        <span>figuras visibles</span>
+      </div>
+    </section>
+
+    <section class="gallery-tools" aria-label="Filtros de galería">
+      <label>
+        <span>Buscar</span>
+        <input id="gallery-search" type="search" placeholder="Ej. histéresis, ETABS, plano...">
+      </label>
+      <label>
+        <span>Capítulo o carpeta</span>
+        <select id="gallery-filter">
+          <option value="all">Todo el archivo</option>
+        </select>
+      </label>
+    </section>
+
+    <section class="archive-map" id="archive-map">
+      <p>Cargando catálogo técnico...</p>
+    </section>
+
+    <section class="technical-gallery" id="technical-gallery" aria-live="polite"></section>
+    <p class="gallery-empty" id="gallery-empty" hidden>No se encontraron figuras con ese criterio.</p>
+  </main>
+
+  <footer class="site-footer">
+    <p>Material organizado a partir de la tesis de maestría · 2026</p>
+    <a href="index.html">Portafolio principal</a>
+  </footer>
+
+  <dialog class="lightbox" aria-label="Vista ampliada">
+    <button type="button" class="lightbox-close" aria-label="Cerrar">×</button>
+    <img src="" alt="">
+    <p></p>
+  </dialog>
+</body>
+</html>
