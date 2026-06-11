@@ -1,0 +1,257 @@
+[
+  {
+    "number": 1,
+    "title": "Cimentaciones para plataforma de celdas, bombas y cajones",
+    "group": "Concreto armado y cimentaciones",
+    "type_label": "Cimentaciones industriales",
+    "discipline": "Civil / concreto armado",
+    "lead": "Diseño de cimentaciones para plataformas de proceso, bombas y cajones de pulpa, con énfasis en presiones de contacto y estabilidad global.",
+    "focus": [
+      "zapatas y losas",
+      "pedestales",
+      "cargas de equipos",
+      "presiones admisibles"
+    ],
+    "href": "memorias/cimentaciones-plataforma-celdas-bombas-cajones.html",
+    "figure_count": 48,
+    "thumb": "assets/images/memorias-completas/cimentaciones-plataforma-celdas-bombas-cajones/fig-0001.webp"
+  },
+  {
+    "number": 2,
+    "title": "Estructura soporte de filtro",
+    "group": "Soportes de equipos industriales",
+    "type_label": "Soporte de equipos",
+    "discipline": "Civil / estructura industrial",
+    "lead": "Análisis de estructura soporte asociada a filtrado, con cargas de operación, servicio, viento, sismo y factores de utilización.",
+    "focus": [
+      "soporte de filtro",
+      "plataformas",
+      "desplazamientos",
+      "factores de utilización"
+    ],
+    "href": "memorias/soporte-filtro-estructura-industrial.html",
+    "figure_count": 62,
+    "thumb": "assets/images/memorias-completas/soporte-filtro-estructura-industrial/fig-0001.webp"
+  },
+  {
+    "number": 3,
+    "title": "Espesamiento y filtrado: plataforma y torre de escalera",
+    "group": "Concreto armado y cimentaciones",
+    "type_label": "Plataformas y accesos",
+    "discipline": "Civil / concreto armado",
+    "lead": "Verificación estructural de plataforma de filtrado y torre de escalera, integrando criterios de resistencia y servicio.",
+    "focus": [
+      "plataforma de filtrado",
+      "torre de escalera",
+      "combinaciones LRFD",
+      "normativa RNE"
+    ],
+    "href": "memorias/espesamiento-filtrado-plataforma-escalera.html",
+    "figure_count": 59,
+    "thumb": "assets/images/memorias-completas/espesamiento-filtrado-plataforma-escalera/fig-0001.webp"
+  },
+  {
+    "number": 4,
+    "title": "Cimentaciones de tanques y bombas",
+    "group": "Concreto armado y cimentaciones",
+    "type_label": "Tanques y bombas",
+    "discipline": "Civil / concreto armado",
+    "lead": "Diseño de fundaciones para tanques y bombas con cargas de líquido, operación, sismo y transferencia a pedestales.",
+    "focus": [
+      "tanques",
+      "bombas",
+      "cargas de líquidos",
+      "pedestales de anclaje"
+    ],
+    "href": "memorias/cimentaciones-tanques-bombas.html",
+    "figure_count": 45,
+    "thumb": "assets/images/memorias-completas/cimentaciones-tanques-bombas/fig-0001.webp"
+  },
+  {
+    "number": 5,
+    "title": "Fundaciones para edificio de preparación y dosificación",
+    "group": "Edificios industriales e institucionales",
+    "type_label": "Edificio industrial",
+    "discipline": "Civil / concreto armado",
+    "lead": "Modelación y diseño de fundaciones para edificio industrial de reactivos, con revisión de estabilidad, servicio y resistencia.",
+    "focus": [
+      "fundaciones",
+      "reactivos",
+      "volcamiento",
+      "deslizamiento"
+    ],
+    "href": "memorias/fundaciones-edificio-reactivos.html",
+    "figure_count": 107,
+    "thumb": "assets/images/memorias-completas/fundaciones-edificio-reactivos/fig-0001.webp"
+  },
+  {
+    "number": 6,
+    "title": "Soporte metálico de tanque y plataformas de proceso",
+    "group": "Acero estructural y plataformas",
+    "type_label": "Acero estructural",
+    "discipline": "Estructural / acero",
+    "lead": "Diseño de soporte metálico de tanque, plataformas de proceso y accesos, con control de derivas y esfuerzos.",
+    "focus": [
+      "tanque",
+      "plataformas",
+      "arriostres",
+      "AISC"
+    ],
+    "href": "memorias/acero-soporte-tanque-plataformas-bulk.html",
+    "figure_count": 94,
+    "thumb": "assets/images/memorias-completas/acero-soporte-tanque-plataformas-bulk/fig-0001.webp"
+  },
+  {
+    "number": 7,
+    "title": "Cimentación de cajones, plataformas y bombas",
+    "group": "Concreto armado y cimentaciones",
+    "type_label": "Cimentaciones de proceso",
+    "discipline": "Estructural / concreto armado",
+    "lead": "Memoria de concreto armado para fundaciones de cajones, plataformas y bombas vinculadas a equipos de proceso.",
+    "focus": [
+      "cajones",
+      "bombas",
+      "plataformas",
+      "presiones de suelo"
+    ],
+    "href": "memorias/concreto-cimentacion-cajones-plataformas-bombas.html",
+    "figure_count": 69,
+    "thumb": "assets/images/memorias-completas/concreto-cimentacion-cajones-plataformas-bombas/fig-0001.webp"
+  },
+  {
+    "number": 8,
+    "title": "Plataformas metálicas de celdas y pasarelas",
+    "group": "Acero estructural y plataformas",
+    "type_label": "Plataformas metálicas",
+    "discipline": "Estructural / acero",
+    "lead": "Diseño y verificación de plataformas, pasarelas de mantenimiento y accesos para operación industrial.",
+    "focus": [
+      "plataformas",
+      "pasarelas",
+      "mantenimiento",
+      "servicio"
+    ],
+    "href": "memorias/acero-plataformas-celdas-zinc-pasarelas.html",
+    "figure_count": 112,
+    "thumb": "assets/images/memorias-completas/acero-plataformas-celdas-zinc-pasarelas/fig-0001.webp"
+  },
+  {
+    "number": 9,
+    "title": "Estructura soporte para equipo distribuidor",
+    "group": "Soportes de equipos industriales",
+    "type_label": "Soporte de equipos",
+    "discipline": "Estructural / acero",
+    "lead": "Verificación de soporte metálico para equipo distribuidor, con cargas térmicas, operación y demanda sísmica.",
+    "focus": [
+      "distribuidor",
+      "temperatura",
+      "desplazamientos",
+      "factores de utilización"
+    ],
+    "href": "memorias/soporte-equipo-distribuidor.html",
+    "figure_count": 34,
+    "thumb": "assets/images/memorias-completas/soporte-equipo-distribuidor/fig-0001.webp"
+  },
+  {
+    "number": 10,
+    "title": "Plataformas de filtros",
+    "group": "Acero estructural y plataformas",
+    "type_label": "Plataformas metálicas",
+    "discipline": "Estructural / acero",
+    "lead": "Diseño de plataformas metálicas de filtrado, con control de gravedad, sismo, servicio y resistencia.",
+    "focus": [
+      "filtros",
+      "plataformas",
+      "SAP2000",
+      "AISC"
+    ],
+    "href": "memorias/plataformas-filtros-metalicas.html",
+    "figure_count": 38,
+    "thumb": "assets/images/memorias-completas/plataformas-filtros-metalicas/fig-0001.webp"
+  },
+  {
+    "number": 11,
+    "title": "Edificio industrial de reactivos",
+    "group": "Edificios industriales e institucionales",
+    "type_label": "Edificio industrial",
+    "discipline": "Estructural / acero y concreto",
+    "lead": "Análisis estructural de edificio industrial, plataformas y muros asociados a preparación y dosificación de reactivos.",
+    "focus": [
+      "edificio",
+      "reactivos",
+      "muros",
+      "viento y sismo"
+    ],
+    "href": "memorias/edificio-industrial-reactivos-acero.html",
+    "figure_count": 75,
+    "thumb": "assets/images/memorias-completas/edificio-industrial-reactivos-acero/fig-0001.webp"
+  },
+  {
+    "number": 12,
+    "title": "Upgrade industrial: acero estructural",
+    "group": "Upgrade y rehabilitación industrial",
+    "type_label": "Acero estructural",
+    "discipline": "Estructural / acero",
+    "lead": "Memoria de acero estructural para ampliación industrial, integrando soportes, pasarelas y control de deformaciones.",
+    "focus": [
+      "upgrade",
+      "soportes",
+      "pasarelas",
+      "deformaciones"
+    ],
+    "href": "memorias/upgrade-industrial-acero-estructural.html",
+    "figure_count": 40,
+    "thumb": "assets/images/memorias-completas/upgrade-industrial-acero-estructural/fig-0001.webp"
+  },
+  {
+    "number": 13,
+    "title": "Upgrade industrial: concreto armado",
+    "group": "Upgrade y rehabilitación industrial",
+    "type_label": "Concreto armado",
+    "discipline": "Civil / concreto armado",
+    "lead": "Diseño de cimentaciones y pedestales de concreto armado para equipos de ampliación industrial.",
+    "focus": [
+      "cimentaciones",
+      "pedestales",
+      "estabilidad",
+      "servicio"
+    ],
+    "href": "memorias/upgrade-industrial-concreto-armado.html",
+    "figure_count": 42,
+    "thumb": "assets/images/memorias-completas/upgrade-industrial-concreto-armado/fig-0001.webp"
+  },
+  {
+    "number": 14,
+    "title": "Upgrade industrial: concreto y lista de verificación",
+    "group": "Upgrade y rehabilitación industrial",
+    "type_label": "Concreto armado",
+    "discipline": "Civil / concreto armado",
+    "lead": "Versión de control técnico para fundaciones de concreto, con verificaciones de estabilidad, resistencia y servicio.",
+    "focus": [
+      "checklist",
+      "fundaciones",
+      "combinaciones",
+      "presiones admisibles"
+    ],
+    "href": "memorias/upgrade-industrial-concreto-checklist.html",
+    "figure_count": 36,
+    "thumb": "assets/images/memorias-completas/upgrade-industrial-concreto-checklist/fig-0001.webp"
+  },
+  {
+    "number": 15,
+    "title": "Edificación institucional por módulos",
+    "group": "Edificios industriales e institucionales",
+    "type_label": "Edificación institucional",
+    "discipline": "Estructural / edificación",
+    "lead": "Memoria integral de estructuras para edificación por módulos, con modelación sísmica, diseño de elementos y cimentaciones.",
+    "focus": [
+      "ETABS",
+      "SAFE",
+      "derivas",
+      "elementos no estructurales"
+    ],
+    "href": "memorias/edificacion-institucional-modulos-etabs-safe.html",
+    "figure_count": 1837,
+    "thumb": "assets/images/memorias-completas/edificacion-institucional-modulos-etabs-safe/fig-0001.webp"
+  }
+]
