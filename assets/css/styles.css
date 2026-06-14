@@ -1371,6 +1371,13 @@ select {
   text-transform: uppercase;
 }
 
+.memo-group-note {
+  max-width: 860px;
+  margin: -8px 0 24px;
+  color: var(--muted);
+  font-size: 0.98rem;
+}
+
 .memo-list-grid {
   display: grid;
   gap: 18px;
@@ -1567,6 +1574,48 @@ select {
 
 .memo-note {
   color: var(--muted);
+}
+
+.pdf-detail-grid {
+  display: grid;
+  gap: 14px;
+  margin-top: 24px;
+}
+
+.pdf-detail-card {
+  display: grid;
+  gap: 14px;
+  padding: 20px;
+  background: rgba(255,255,255,0.72);
+  border: 1px solid rgba(15,28,35,0.12);
+}
+
+.pdf-detail-card span,
+.pdf-detail-card small {
+  display: block;
+  color: var(--accent);
+  font-size: 0.68rem;
+  font-weight: 900;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.pdf-detail-card h3 {
+  margin: 8px 0 8px;
+  font-family: "Arial Narrow", sans-serif;
+  font-size: clamp(1.6rem, 2.4vw, 2.4rem);
+  letter-spacing: -0.04em;
+  line-height: 0.96;
+  text-transform: uppercase;
+}
+
+.pdf-detail-card p {
+  margin: 0;
+  color: var(--muted);
+}
+
+.pdf-detail-card .memory-tags {
+  margin-top: 2px;
 }
 
 .memo-gallery {
