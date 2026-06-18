@@ -253,5 +253,22 @@
     "href": "memorias/edificacion-institucional-modulos-etabs-safe.html",
     "figure_count": 1837,
     "thumb": "assets/images/memorias-completas/edificacion-institucional-modulos-etabs-safe/fig-0001.webp"
+  },
+  {
+    "number": 33,
+    "title": "Memoria de cálculo estructural de buzones",
+    "group": "Obras exteriores e infraestructura sanitaria",
+    "type_label": "Buzones de concreto armado",
+    "discipline": "Civil / concreto armado",
+    "lead": "Diseño estructural de buzones de concreto armado, con modelación SAP2000, empujes de suelo, sobrecarga vehicular, combinaciones de diseño, verificación de muros, losas y control de fisuración.",
+    "focus": [
+      "buzones",
+      "SAP2000",
+      "empuje de suelo",
+      "concreto armado"
+    ],
+    "href": "memorias/memoria-calculo-buzones-concreto-armado.html",
+    "figure_count": 71,
+    "thumb": "assets/images/memorias-completas/memoria-calculo-buzones-concreto-armado/fig-0001.webp"
   }
 ]
